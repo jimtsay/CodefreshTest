@@ -1,0 +1,7 @@
+{ "name" : "StudentList",
+  "version" : "0.0.1",
+  "description" : "Student List",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
